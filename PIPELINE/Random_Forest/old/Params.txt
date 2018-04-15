@@ -1,0 +1,34 @@
+Original
+	maxDepth = 25 
+	minSampleCount = 3
+	maxCategories = 15
+	nactiveVars = 3
+	maxNumTrees = 200
+
+V2 (NewParams1)
+	maxDepth = 7; 
+	minSampleCount = 10; 
+	maxCategories = 5;
+	nactiveVars = 10; 
+	maxNumTrees = 200;
+
+V3
+	maxDepth = 7; 
+	minSampleCount = 3;
+	maxCategories = 5;
+	nactiveVars = 0; 
+	maxNumTrees = 500;
+
+v4
+	maxDepth = 7;
+	minSampleCount = 18;
+	maxCategories = 15;
+	nactiveVars = 0;
+	maxNumTrees = 300;
+v5
+	maxDepth = 25;
+	minSampleCount = 18;
+	maxCategories = 15;
+	nactiveVars = 0;
+	maxNumTrees = 300;
+

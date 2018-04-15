@@ -1,0 +1,21 @@
+looking for path level_test ; applying sensitivity 5
+filename,  distance,  patient,  level
+LIDC-IDRI-0001-annotator-1-Nodule_001 , -1 , 0001 , 1
+LIDC-IDRI-0001-annotator-2-IL057_127364 , 2.062 , 0001 , 1
+LIDC-IDRI-0001-annotator-3-MI014_12127 , 1.0 , 0001 , 1
+LIDC-IDRI-0001-annotator-4-0 , 1.118 , 0001 , 1
+LIDC-IDRI-0002-annotator-3-MI014_11691 , -1 , 0002 , 1
+LIDC-IDRI-0002-annotator-4-8 , -1 , 0002 , 2
+LIDC-IDRI-0003-annotator-1-Nodule_001 , -1 , 0003 , 1
+LIDC-IDRI-0003-annotator-2-IL057_130591 , 2.062 , 0003 , 1
+LIDC-IDRI-0003-annotator-3-MI014_16588 , 1.118 , 0003 , 1
+LIDC-IDRI-0003-annotator-4-0 , 2.958 , 0003 , 1
+LIDC-IDRI-0003-annotator-1-Nodule_003 , -1 , 0003 , 2
+LIDC-IDRI-0003-annotator-2-IL057_130602 , 0.0 , 0003 , 2
+LIDC-IDRI-0003-annotator-3-MI014_16599 , 0.0 , 0003 , 2
+LIDC-IDRI-0003-annotator-4-8 , 0.5 , 0003 , 2
+LIDC-IDRI-0003-annotator-1-Nodule_002 , -1 , 0003 , 3
+LIDC-IDRI-0003-annotator-2-IL057_130598 , 1.118 , 0003 , 3
+LIDC-IDRI-0003-annotator-3-MI014_16595 , 0.707 , 0003 , 3
+LIDC-IDRI-0003-annotator-4-9 , 0.707 , 0003 , 3
+LIDC-IDRI-0003-annotator-4-12 , -1 , 0003 , 4

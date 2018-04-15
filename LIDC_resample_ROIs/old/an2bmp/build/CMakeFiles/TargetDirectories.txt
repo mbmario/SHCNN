@@ -1,0 +1,1 @@
+/home/mario/Documents/LIDC_resample_ROIs/an2bmp/build/CMakeFiles/an2bmp.dir

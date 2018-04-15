@@ -1,0 +1,18 @@
+PROJECT( RandomForest_Original )
+
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8) 
+#SET(OPENCV_DIR /home/mario/OpenCV/opencv-3.0.0/build)
+
+FIND_PACKAGE(OpenCV REQUIRED)
+#SET(OpenCV_FOUND TRUE)
+# IF(ITK_FOUND)
+#  INCLUDE(${USE_ITK_FILE})
+# ENDIF(ITK_FOUND)
+
+SET(CMAKE_BUILD_TYPE Release)
+ADD_EXECUTABLE(RandomForest_Original RandomForest.cxx)
+TARGET_LINK_LIBRARIES(RandomForest ${OpenCV_LIBS})
+
+
+
+

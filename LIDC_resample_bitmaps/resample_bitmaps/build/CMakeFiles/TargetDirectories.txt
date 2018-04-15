@@ -1,0 +1,1 @@
+/home/mario/Documents/LIDC_resample_bitmaps/resample_bitmaps/build/CMakeFiles/resample_bitmap.dir

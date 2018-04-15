@@ -1,0 +1,27 @@
+bmp has to have pixeltype of 
+	unsigned char -or-
+	RGB<unsigned char>
+
+Ziyue wants the 3 planes saved as RGB channels
+
+So procedure needs to be
+
+	http://itk-users.7.n7.nabble.com/Extrac-2D-slice-from-a-3D-Image-with-orientation-td17608.html
+
+EXTRACTIMAGEFILTER
+-specify target region, then the filter will remove pixels outside that region
+	-this is ExtractRegion?
+
+-to collapse dimensions, first specify ExtractRegion
+	NEED ExtractionRegion.Size[dim] = 0
+	NEED ExtractionRegion.Index[dim] 
+
+-example: reduce a 4x4x4x4 to a 4x4x4
+	ExtractionRegion.Size = [4,4,4,0]
+	ExtractionRegion.Index = [0,0,0,2] (3rd time slice)
+
+
+COMIBINING IMAGES
+imagemagick can do it in 1 line
+opencv can do it too
+maybe in itk

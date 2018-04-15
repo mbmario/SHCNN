@@ -1,0 +1,18 @@
+# template
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNargREG.py INDIRXXXXXX /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_V7 OUTDIRXXXXXXXX
+
+#####
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNargREG.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/repctvol/200SH_SmallWindows_1repctvol /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_V7 /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_V7/repctvol/200SH_SmallWindows_1repctvol
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNargREG.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/repctvol/200SH_SmallWindows_10repctvol /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_V7 /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_V7/repctvol/200SH_SmallWindows_10repctvol
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNargREG.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/repctvol/200SH_SmallWindows_100repctvol /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_V7 /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_V7/repctvol/200SH_SmallWindows_100repctvol
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNargREG.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/repctvol/200SH_SmallWindows_2000repctvol /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_V7 /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_V7/repctvol/200SH_SmallWindows_2000repctvol
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNargREG.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/repctvol/300SH_SmallWindows_10repctvol /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_V7 /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_V7/repctvol/300SH_SmallWindows_10repctvol
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNargREG.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/repctvol/400SH_SmallWindows_10repctvol /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_V7 /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_V7/repctvol/400SH_SmallWindows_10repctvol
+

@@ -1,0 +1,8 @@
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNarg.py INDIRXXXXXX /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_V7 OUTDIRXXXXXXXX
+
+##########
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNarg.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/Standard/200SH_SmallWindows_PrA /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_V7_moreoutput /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_V7_moreoutput/200SH_SmallWindows_PrA
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNarg.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/Standard/300SH_SmallWindows_PrA /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_V7_moreoutput /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_V7_moreoutput/300SH_SmallWindows_PrA
+

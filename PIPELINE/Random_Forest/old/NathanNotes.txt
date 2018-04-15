@@ -1,0 +1,20 @@
+change categories to 5 
+
+change examples per leaf to 10 
+	CHANGED FROM 
+
+vars at each node increase to 10 or experiment. 0 -> square root of the size
+
+start at depth 7
+	CHANGED FROM 	
+
+long term: overfit (training error = 0) then prune back
+
+play with priors weights to emphasize low and high values (inverse to numbers) 
+	-double check
+
+BIAS PROBLEM
+-try repeating SH coefficients
+	-> repeat earlier ones more? or later ones more?
+
+-oversampling strategy: Smote pancreas (

@@ -1,0 +1,14 @@
+% convert mingchen format 
+% for the features: dlmwrite('features_fc6.csv', features_fc6, '-append')
+
+% PCA : http://www.mathworks.com/matlabcentral/answers/74272-how-to-use-principal-component-analysis-to-reduce-feature-vector-size
+
+
+% SAVE THE LIDC IMAGES TO THE FILE
+fid = fopen('image_names.csv', 'w');
+
+for i=1:17113
+    fprintf(fid, '%s\n', LIDC_images{i});
+end
+
+fclose(fid);

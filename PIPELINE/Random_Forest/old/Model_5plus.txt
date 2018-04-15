@@ -1,0 +1,11 @@
+# runs all of the 13 SH_Rep sets as of 5/10/16:
+
+
+##############################################
+
+# TEMPLATE
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNarg.py INDIRXXXXXXXX /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_V5 OUTDIRXXXXXXXXXXXXXXXX
+
+# OLD PARAMS
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNarg.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/SH_Rep/rep50_1times_desc /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForestOldRelease /media/mario/DiskB/LIDC_Data_Current/RFData/Results/OldParams/RepSHs/rep50_1times_desc
+

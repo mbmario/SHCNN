@@ -1,0 +1,17 @@
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNarg.py INDIRXXXXXX /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_printtrees_V7 /OUTDIRXXXXXXXX
+
+############
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNarg.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/Standard/0SH_SmallWindows_PrA /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_printtrees_V7 /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_Trees/0SH_SmallWindows_PrA
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNarg.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/Standard/150SH_SmallWindows_PrA /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_printtrees_V7 /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_Trees/150SH_SmallWindows_PrA
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNarg.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/Standard/200SH__PrA /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_printtrees_V7 /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_Trees/200SH__PrA
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNarg.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/Standard/200SH_SmallWindows_PrA /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_printtrees_V7 /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_Trees/200SH_SmallWindows_PrA
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNarg.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/Standard/300SH_SmallWindows_PrA /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_printtrees_V7 /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_Trees/300SH_SmallWindows_PrA
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNarg.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/SH_Rep/rep52_3times_desc /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_printtrees_V7 /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_Trees/rep52_3times_desc
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNarg.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/SH_Rep/rep63_2times_desc /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_printtrees_V7 /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_Trees/rep63_2times_desc
+

@@ -1,0 +1,37 @@
+﻿PROGRAM
+
+Modify a Python program to read the xml and write the coordinates to a csv (don't worry about conversion)
+
+
+Parent Python Program:
+	-designate x= /xml/, an= /nonbinROI/, seg = /segcsvs/patient, broi = /binary-rois/
+		-can use regular analyze but would take longer!
+	-find appropriate xfile, anfile, and create segfile
+	-for each xml r:
+		-child python: gives xmlfile, segfile name → writes segfile 
+		-for each nodule-specific file produced by child and associated an
+			ITKprogram: given segfile, an, broi name, writes broi 
+
+Child Python:
+	-given an xml, writes all coordinates to a csv: x,y,z \n 
+
+ Write an ITK program
+	a
+		-function: takes a csv of coordinates and reads them into a set/hashtable
+		-function: takes image spacing and image space voxel, converts into xml-format coordinate space
+	
+	b
+		-fn: get the set
+		-read the image
+		-build a non-const ImageLinearIteratorWithIndex
+			for each voxel in the iterator		
+				fn: convert to the GetIndex index to xml-format coordinate space
+				if fn result is in set: change pixel value to 1
+				otherwise: change to 0
+		-hook image up to writer and write to file
+
+RESOURCES
+VoxelCount original from Ziyue
+read xml / readnod/ etc python
+
+

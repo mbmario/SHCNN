@@ -1,0 +1,13 @@
+
+##############################################
+
+# PRIORITIES
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNarg.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/Standard/0SH_SmallWindows_PrA /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_V6 /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_V6EMPTY/Standard/0SH_SmallWindows_PrA
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNarg.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/Standard/150SH_SmallWindows_PrA /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_V6 /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_V6EMPTY/Standard/150SH_SmallWindows_PrA
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNarg.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/Standard/200SH_SmallWindows_PrA /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_V6 /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_V6EMPTY/Standard/200SH_SmallWindows_PrA
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNarg.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/Standard/300SH_SmallWindows_PrA /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_V6 /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_V6EMPTY/Standard/300SH_SmallWindows_PrA
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNarg.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/Standard/400SH_SmallWindows_PrA /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_V6 /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_V6EMPTY/Standard/400SH_SmallWindows_PrA

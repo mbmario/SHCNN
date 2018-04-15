@@ -1,0 +1,5 @@
+load("/media/mario/DiskB/LIDC_Data_Current/RFData/Parsed_Data/priority_a_df")
+maligs <- as.numeric(priority_a$malignancy)
+table(maligs)
+mv <- c(286, 538, 790, 274, 166 )
+priors <- round(max(mv)/mv)

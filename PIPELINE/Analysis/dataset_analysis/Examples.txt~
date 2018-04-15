@@ -1,0 +1,21 @@
+Find nodule key for 
+
+1) High difference between annotators
+2) High difference bewteen prediction and truth
+
+
+Process
+1) High difference between annotators
+a. loop through levelsets in full_df and print text if 3 or 4 diff
+	-modify from NoduleAnalysis.R
+b. save that output as text 
+
+2) High difference between prediction and truth
+a. Make a new header for RandomForest executable instead of confusion_matrix
+	- prints truth<truth>, pred<pred>, diff<diff>, first 3 SHs
+
+b. build and put under bins as V7_moreoutput
+c. run with basic 200 SH model under Results/V7_moreoutput
+d. ctrl+f the outputs for diff3 or diff4
+
+

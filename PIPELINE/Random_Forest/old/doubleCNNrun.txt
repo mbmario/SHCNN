@@ -1,0 +1,12 @@
+# template
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNarg.py INDIRXXXXXX /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_V7 OUTDIRXXXXXXXX
+
+###
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNarg.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/SH_CNNCombo/200SH_CNNcombo /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_V7 /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_V7/SH_CNNcombo/200SH_CNNcombo
+
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNarg.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/SH_CNNCombo/300SH_CNNcombo /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_V7 /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_V7/SH_CNNcombo/300SH_CNNcombo
+
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNarg.py /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/SH_CNNCombo/400SH_CNNcombo /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_V7 /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_V7/SH_CNNcombo/400SH_CNNcombo

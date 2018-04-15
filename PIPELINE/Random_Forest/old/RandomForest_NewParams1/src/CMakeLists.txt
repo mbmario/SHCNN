@@ -1,0 +1,16 @@
+PROJECT( RandomForest )
+
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8) 
+#SET(OPENCV_DIR /usr/local/opencv/build)
+#INCLUDE_DIRECTORIES(/usr/local/include)
+
+FIND_PACKAGE(OpenCV REQUIRED)
+
+#SET(CMAKE_BUILD_TYPE Debug)
+SET(CMAKE_BUILD_TYPE Release)
+ADD_EXECUTABLE(RandomForest RandomForest_opencv2.cxx)
+TARGET_LINK_LIBRARIES(RandomForest ${OpenCV_LIBS})
+
+
+
+

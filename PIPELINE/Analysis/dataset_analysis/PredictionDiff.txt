@@ -1,0 +1,52 @@
+###### DIFF:4 #######
+
+
+200 SH t2
+first SHs66.1056, 68.2236, 66.1056, truth:1pred:5, diff:-4
+	LIDC-IDRI-0144-BINARY-ROI-annotator-4-8
+first SHs62.4913, 63.5293, 62.4913, truth:1pred:5, diff:-4
+	LIDC-IDRI-0141-BINARY-ROI-annotator-1-206714
+
+300 SH t2
+first SHs66.1056, 68.2236, 66.1056, truth:1pred:5, diff:-4
+first SHs62.4913, 63.5293, 62.4913, truth:1pred:5, diff:-4
+	same as other set
+
+####### DIFF:3 #######
+
+
+300 SH t9
+first SHs64.93, 66.4312, 64.93, truth:1pred:5, diff:-4
+	LIDC-IDRI-0641-BINARY-ROI-annotator-1-9
+
+200 SH t7 has 3
+first SHs55.7286, 56.5413, 55.7286, truth:1pred:4, diff:-3
+	LIDC-IDRI-0440-BINARY-ROI-annotator-3-167235
+first SHs50.1675, 51.1787, 50.1675, truth:2pred:5, diff:-3
+	LIDC-IDRI-0340-BINARY-ROI-annotator-3-0
+first SHs64.7976, 66.6364, 64.7976, truth:1pred:4, diff:-3
+	LIDC-IDRI-0185-BINARY-ROI-annotator-3-128697
+
+200 SH t5 has 5
+first SHs59.8267, 61.2937, 59.8267, truth:4pred:1, diff:3
+first SHs56.1836, 57.1515, 56.1836, truth:4pred:1, diff:3
+first SHs63.6963, 64.9219, 63.6963, truth:2pred:5, diff:-3
+first SHs56.3744, 57.5569, 56.3744, truth:2pred:5, diff:-3
+first SHs39.4625, 39.741, 39.4625, truth:2pred:5, diff:-3
+
+
+
+300 SH t7 has 6
+first SHs23.4789, 23.957, 23.4789, truth:4pred:1, diff:3
+	LIDC-IDRI-0436-BINARY-ROI-annotator-4-3
+first SHs56.1017, 57.3294, 56.1017, truth:4pred:1, diff:3
+first SHs67.7447, 68.9156, 67.7447, truth:4pred:1, diff:3
+first SHs53.873, 55.0318, 53.873, truth:4pred:1, diff:3
+first SHs121.99, 125.516, 121.99, truth:1pred:4, diff:-3
+first SHs56.5887, 57.7609, 56.5887, truth:2pred:5, diff:-3
+
+300 SH t5 has 2
+first SHs56.8947, 57.726, 56.8947, truth:1pred:4, diff:-3
+first SHs60.5314, 61.7655, 60.5314, truth:1pred:4, diff:-3
+
+

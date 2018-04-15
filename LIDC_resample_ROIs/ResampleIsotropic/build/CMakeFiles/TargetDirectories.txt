@@ -1,0 +1,1 @@
+/home/mario/Documents/LIDC_resample_ROIs/ResampleIsotropic/build/CMakeFiles/ResampleIsotropic.dir

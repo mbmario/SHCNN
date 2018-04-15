@@ -1,0 +1,8 @@
+The programs in this directory can take care of everything from raw LIDC through the Spherical Harmonics coefficient computation. 
+
+The only thing that needs to be edited is the directories, and a smoothing parameter that is in 2process_meshes.sh. 
+
+The programs should be run in order of the numbers in the beginning of the filename.
+
+Cases may fail in 2process_meshes.sh (skips bad cases), 4main/off2Gu (skips bad cases) and 4main.sh (must be terminated individually, but main function still runs).
+

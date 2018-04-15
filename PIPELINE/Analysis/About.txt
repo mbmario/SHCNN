@@ -1,0 +1,7 @@
+get_outputs.py
+	given the experiment directory and an output directory, this will collect all the output files and put them in the given output directory
+
+parameter_graph.R (parent) / read_CM_fn.R (fn)
+	loops over files in the given directory
+	prints out their total accuracy and obo accuracy
+	

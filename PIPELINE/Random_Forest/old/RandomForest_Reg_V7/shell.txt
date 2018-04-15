@@ -1,0 +1,16 @@
+### GDB ###
+/media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/Standard/200SH_SmallWindows_PrA/t7/200SH_SmallWindows_PrA_training_learnable.csv /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/Standard/200SH_SmallWindows_PrA/t7/200SH_SmallWindows_PrA_testing_learnable.csv 4296 ord[0-4296] 1 
+
+### COMMAND LINE ###
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/RandomForest_Reg_V7/build/RandomForest /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/RandomForest_Reg_V7/testing/400SH_SmallWindows_PrA_training_learnable.csv /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/RandomForest_Reg_V7/testing/400SH_SmallWindows_PrA_testing_learnable.csv 4496 ord[0-4496] 1 > /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/RandomForest_Reg_V7/testing/TestOutput.txt
+
+### PYTHON ###
+
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNargREG.py /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_Reg_V7/150SH_SmallWindows_PrA /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_Reg_V7 /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/Standard/150SH_SmallWindows_PrA
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNargREG.py /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_Reg_V7/200SH_SmallWindows_PrA /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_Reg_V7 /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/Standard/200SH_SmallWindows_PrA
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNargREG.py /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_Reg_V7/300SH_SmallWindows_PrA /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_Reg_V7 /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/Standard/300SH_SmallWindows_PrA
+
+/home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/loopCNNargREG.py /media/mario/DiskB/LIDC_Data_Current/RFData/Results/RandomForest_Reg_V7/400SH_SmallWindows_PrA /home/mario/Documents/LIDC_Code_Current/PIPELINE/Random_Forest/bins/RandomForest_Reg_V7 /media/mario/DiskB/LIDC_Data_Current/RFData/StaticSets/Standard/400SH_SmallWindows_PrA

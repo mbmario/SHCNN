@@ -1,0 +1,35 @@
+Predict 4/5 v.s. Truth 1/2 (-3/4)
+
+first SHs121.99, 125.516, 121.99, truth:1pred:4, diff:-3 300 t7
+LIDC-IDRI-0608-annotator-3-8352
+
+first SHs56.5887, 57.7609, 56.5887, truth:2pred:5, diff:-3 300 t7
+LIDC-IDRI-0874-annotator-1-8
+
+first SHs56.8947, 57.726, 56.8947, truth:1pred:4, diff:-3 300 t5
+LIDC-IDRI-0849-annotator-3-33977
+
+first SHs61.7999, 62.638, 61.7999, truth:2pred:5, diff:-3 300 t4
+LIDC-IDRI-0112-annotator-4-0
+ 
+
+Predict 1/2 v.s. Truth 4/5 (3/4)
+
+first SHs56.1017, 57.3294, 56.1017, truth:4pred:1, diff:3 300 t7
+
+first SHs56.1096, 57.1179, 56.1096, truth:5pred:4, diff:1
+LIDC-IDRI-0099-annotator-1-Nodule_002
+
+first SHs67.7447, 68.9156, 67.7447, truth:4pred:1, diff:3 300 t7
+LIDC-IDRI-0013-annotator-2-IL057_123135
+
+first SHs59.6989, 60.6976, 59.6989, truth:5pred:2, diff:3 300 t9
+LIDC-IDRI-0743-annotator-1-Nodule_002
+
+Predict 5 vs Truth 1 
+
+first SHs66.1056, 68.2236, 66.1056, truth:1pred:5, diff:-4 300 t2
+LIDC-IDRI-0144-annotator-4-8
+
+first SHs62.4913, 63.5293, 62.4913, truth:1pred:5, diff:-4 300 t2
+LIDC-IDRI-0141-annotator-1-206714

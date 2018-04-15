@@ -1,0 +1,25 @@
+
+MATLAB IDE PROGRAM
+Finding
+	CCRUBY in /home/mario/Servers/
+		empty /groups/ and /software/ folders
+		df -hTa doesn't show servers
+
+	Jeff
+	1) smb as butymd NIH to mount and access CCRUBY (sudo -s first)
+		will do password and username as flags
+			NOTE: Ubuntu equivalent is "samba" 
+	2) rpm to install software from a server
+			NOTE: may need to convert depending on format 
+			http://askubuntu.com/questions/433810/whats-the-equivalent-of-rpm-qc-package-name-	in-ubuntu -> comment 1
+	3) contact Ron for software key
+
+
+	Mingchen
+	1) Ask Mingchen how she did it!
+
+MATLAB CODE
+Probably should split main into smaller files with arguments
+
+WINECONSOLE
+	works!!

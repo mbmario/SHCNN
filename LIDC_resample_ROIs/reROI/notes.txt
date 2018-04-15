@@ -1,0 +1,37 @@
+Figuring out the reROI:
+
+want an image sampled with different ROIs
+	images in directory, ROIs in csv
+
+control program: R, C++, Python, or even shell
+	TAKES csv filename and directory of image files
+	-reads csv and stores as accessible structure
+	-stores  directory information
+
+itk program: definitely C++
+	TAKES x,y,z centerpoint (from read csv) and image
+	-reads image 
+	-figures out all that spacing bullshit
+	-cuts a +-25 mm region around the center point
+
+TODO
+1) write the shell tester with examples from a 0009 image nodule
+2) write a std::cout for the arguments and make sure that they don't get weird 
+3) mess around with the box and figure out some possible way to get that stupid region that won't give an error. Go back and forth with the manual to understand what the numbers mean
+4) figure out how to save to file
+5) then figure out how to reconcile with the parameters
+6) Figure out what lanugage to write the main in and write that (leaning python)
+
+6.5) Run the resample main
+
+7) Figure out how to re-run the missing files
+
+8) Write a shell loop for the bitmap conversion
+
+9) Write the bitmap conversion
+
+10) Run the bitmap conversion 
+	
+
+
+

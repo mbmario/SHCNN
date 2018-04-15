@@ -1,0 +1,10 @@
+1a) voxel_dimensions_tocsv.py -> csv: patient_no, nodule_name*, x_range, y_range, z_range
+	uses /fns/: xml_dimensions_fn.py, xml_roi_calc_fn.py
+	arg1 is dir with xmls, arg2 is output csv
+
+1b) voxel_spacing_tocsv.py 	-> csv: patient_no, x_spacing, y_spacing, z_spacing
+	uses /fns/ 
+	arg1 is dir with WHATEVER, arg2 is output csv
+
+2) combine_voxel_dim_spacing.R
+	
